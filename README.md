@@ -5,7 +5,9 @@
 **For Frontend** - `cd frontend` && ` npm i` && `npm start`
 
 **DB Access** - MongoDB Atlas : adviteeyofficial@gmail.com && Adviteey@4518 --> Clusters/AdviteeyBeta
+
 **ADMIN** - abhishek.20603@knit.ac.in && abhishek.20603@knit.ac.in
+
 **CARD** - 378282246310005 && 1234 && 345
 
 ## Env Variables
